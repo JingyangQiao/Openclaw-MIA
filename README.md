@@ -33,7 +33,7 @@ The system spans three roles across a distributed setup:
 [SGLang inference service updated]
 ```
 
-![openclaw-rl-mia](.\openclaw-rl-mia.png)
+<h1 align="center"><img src="openclaw-rl-mia.png" alt="" width="1000"/></h1>
 
 ## Method Overview
 
