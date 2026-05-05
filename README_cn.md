@@ -33,7 +33,7 @@
 [SGLang 推理服务更新]
 ```
 
-![openclaw-rl-mia](.\openclaw-rl-mia.png)
+<h1 align="center"><img src="openclaw-rl-mia.png" alt="" width="1000"/></h1>
 
 ## 方法概述
 
